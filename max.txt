@@ -17,3 +17,22 @@
 
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Page</title>
+</head>
+<body>
+
+    <h2>My Favorite Bike 🏍️</h2>
+
+    <img src="https://via.placeholder.com/250" alt="Bike Image">
+
+    <p>
+        <a href="https://www.google.com" target="_blank">
+            Click here to visit Google
+        </a>
+    </p>
+
+</body>
+</html>
